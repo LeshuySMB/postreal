@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Noto+Sans+SC:wght@700&family=Roboto&family=Rubik&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web&display=swap");
+p {
+  font-family: "Comfortaa", cursive;
+  font-size: 24px;
+  text-align: left;
+  margin-left: 2%;
+  margin-right: 14%;
+  color: rgb(85, 68, 33);
+}
+h1 {
+  font-family: "Rubik", sans-serif;
+  font-size: 56px;
+  text-align: center;
+}
+h2 {
+  font-family: "Istok Web", sans-serif;
+  font-size: 28px;
+  text-align: left;
+  margin-left: 2%;
+  margin-right: 54%;
+}
+img {
+  border-radius: 10px;
+  float: right;
+  text-align: right;
+  margin-left: 0%;
+  margin-right: 0%;
+}

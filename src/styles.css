@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Sansita+Swashed:wght@600&display=swap");
+
+body {
+  background-color: rgba(179, 179, 179, 0.986);
+}
+.lk {
+  text-decoration: none;
+  font-family: "Caveat", cursive;
+  font-size: 60px;
+  color: rgba(255, 255, 255, 1);
+}
+button {
+  border-radius: 10px;
+  background: rgb(60, 58, 70);
+  border: none;
+  margin-left: 3%;
+  position: relative;
+  left: 10%;
+  transform: translate(-10%, 0);
+}
+.btn {
+  border-radius: 10px;
+  background: rgba(63, 59, 80, 0.712);
+}
+.btn2 {
+  text-decoration: none;
+  font-size: 60px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  left: 45%;
+  transform: translate(-50%, 0);
+}
